@@ -6,7 +6,7 @@
 Dirichlet Process의 모델을 사용하여 GMM의 choice size를 들어오는 데이터에 따라 자동적으로 설정
 
 ## GPR
-Gaussian Process Regression.. 확률적인 weight
+Jit + gpu 사용 시 기존의 cpu 사용 gpr보다 10배정도 빠르다. 굿!  
 
 ## Sampling Method.
 
